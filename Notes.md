@@ -5,3 +5,5 @@
   [Lecture 2](https://unexpected-fin-7b2.notion.site/Lecture-2-8a5f6793746a4448b69355f3ea95e17d)
   
   [Seminar 1](https://unexpected-fin-7b2.notion.site/Seminar-1-6ca3a8088d844f80b596d8b6ab99997b)
+  
+  [Seminar 2](https://unexpected-fin-7b2.notion.site/Seminar-2-13aa3b312eec46b4aba82b30ae43656b)
