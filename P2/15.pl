@@ -1,4 +1,4 @@
-﻿%15.
+%15.
 % a. Define a predicate to determine the predecessor of a number
 % represented as digits in a list.
 %Eg.: [1 9 3 6 0 0] => [1 9 3 5 9 9]
