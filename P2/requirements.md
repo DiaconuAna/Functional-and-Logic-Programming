@@ -1,26 +1,26 @@
 P2: Lists in Prolog (2)
 
-1.
-a. Sort a list with removing the double values. E.g.: [4 2 6 2 3 4] --> [2 3 4 6]
-b. For a heterogeneous list, formed from integer numbers and list of numbers, write a predicate to sort every sublist with removing the doubles.
+1.\
+a. Sort a list with removing the double values. E.g.: [4 2 6 2 3 4] --> [2 3 4 6]\
+b. For a heterogeneous list, formed from integer numbers and list of numbers, write a predicate to sort every sublist with removing the doubles.\
 Eg.: [1, 2, [4, 1, 4], 3, 6, [7, 10, 1, 3, 9], 5, [1, 1, 1], 7] =>
 [1, 2, [1, 4], 3, 6, [1, 3, 7, 9, 10], 5, [1], 7].
 
-2.
-a. Sort a list with keeping double values in resulted list. E.g.: [4 2 6 2 3 4] --> [2 2 3 4 4 6]
-b. For a heterogeneous list, formed from integer numbers and list of numbers, write a predicate to sort every sublist, keeping the doubles.
+2.\
+a. Sort a list with keeping double values in resulted list. E.g.: [4 2 6 2 3 4] --> [2 2 3 4 4 6]\
+b. For a heterogeneous list, formed from integer numbers and list of numbers, write a predicate to sort every sublist, keeping the doubles.\
 Eg.: [1, 2, [4, 1, 4], 3, 6, [7, 10, 1, 3, 9], 5, [1, 1, 1], 7] =>
 [1, 2, [1, 4, 4], 3, 6, [1, 3, 7, 9, 10], 5, [1, 1, 1], 7].
 
-3.
-a. Merge two sorted lists with removing the double values.
-b. For a heterogeneous list, formed from integer numbers and list of numbers, merge all sublists with removing the double values.
+3.\
+a. Merge two sorted lists with removing the double values.\
+b. For a heterogeneous list, formed from integer numbers and list of numbers, merge all sublists with removing the double values.\
 [1, [2, 3], 4, 5, [1, 4, 6], 3, [1, 3, 7, 9, 10], 5, [1, 1, 11], 8] =>
 [1, 2, 3, 4, 6, 7, 9, 10, 11].
 
-4.
-a. Write a predicate to determine the sum of two numbers written in list representation.
-b. For a heterogeneous list, formed from integer numbers and list of digits, write a predicate to compute the sum of all numbers represented as sublists.
+4.\
+a. Write a predicate to determine the sum of two numbers written in list representation.\
+b. For a heterogeneous list, formed from integer numbers and list of digits, write a predicate to compute the sum of all numbers represented as sublists.\
 Eg.: [1, [2, 3], 4, 5, [6, 7, 9], 10, 11, [1, 2, 0], 6] => [8, 2, 2].
 
 5.
