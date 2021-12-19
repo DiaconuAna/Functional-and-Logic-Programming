@@ -12,7 +12,7 @@
   [Lecture 11 - Examples of list processing using MAP functions.](https://unexpected-fin-7b2.notion.site/Lecture-11-4421ecbd8e3f4d29abfe2549d093a694)
   
   [Seminar 1](https://unexpected-fin-7b2.notion.site/Seminar-1-6ca3a8088d844f80b596d8b6ab99997b)  
-  [Seminar 2](https://unexpected-fin-7b2.notion.site/Seminar-2-13aa3b312eec46b4aba82b30ae43656b)  
-  [Seminar 3](https://unexpected-fin-7b2.notion.site/Seminar-3-ede4402777d84ac19c92b08cf5eb0d01)
-  [Seminar 4](https://unexpected-fin-7b2.notion.site/Seminar-4-5c55aae3435c4726a8e41144becb66f9)
+  [Seminar 2](https://unexpected-fin-7b2.notion.site/Seminar-2-13aa3b312eec46b4aba82b30ae43656b)\  
+  [Seminar 3](https://unexpected-fin-7b2.notion.site/Seminar-3-ede4402777d84ac19c92b08cf5eb0d01)\
+  [Seminar 4](https://unexpected-fin-7b2.notion.site/Seminar-4-5c55aae3435c4726a8e41144becb66f9)\
   [Seminar 5](https://unexpected-fin-7b2.notion.site/Seminar-5-ba16d231546b4b37a9508ac355bc8f68)
