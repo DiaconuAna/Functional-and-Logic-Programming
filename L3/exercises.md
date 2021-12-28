@@ -20,3 +20,5 @@ Eg. the depth of the tree (a (b (c)) (d) (e (f))) is 3
 14. Write a function that returns the number of atoms in a list, at any level.
 15. Write a function that reverses a list together with all its sublists elements, at any level.
 16. Write a function that produces the linear list of all atoms of a given list, from all levels, and written in the same order. Eg.: (((A B) C) (D E)) --> (A B C D E)
+
+[Solutions on Notion](https://unexpected-fin-7b2.notion.site/L3-e2db7c924929485b994972b6afaaf750)
