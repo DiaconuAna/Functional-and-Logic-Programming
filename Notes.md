@@ -15,4 +15,5 @@
   [Seminar 2](https://unexpected-fin-7b2.notion.site/Seminar-2-13aa3b312eec46b4aba82b30ae43656b)  
   [Seminar 3](https://unexpected-fin-7b2.notion.site/Seminar-3-ede4402777d84ac19c92b08cf5eb0d01)\
   [Seminar 4](https://unexpected-fin-7b2.notion.site/Seminar-4-5c55aae3435c4726a8e41144becb66f9)\
-  [Seminar 5](https://unexpected-fin-7b2.notion.site/Seminar-5-ba16d231546b4b37a9508ac355bc8f68)
+  [Seminar 5](https://unexpected-fin-7b2.notion.site/Seminar-5-ba16d231546b4b37a9508ac355bc8f68)\
+  [Seminar 6](https://www.notion.so/Seminar-6-e12c3f5486f04d3489430c86f7ea75dc)
